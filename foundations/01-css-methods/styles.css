@@ -2,7 +2,7 @@ div{
     background-color: red;
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-
+    font-weight: bold;
     text-align: center;
     color: white;
 }
